@@ -4,3 +4,4 @@ babylon reactive native sample ：https://github.com/BabylonJS/BabylonReactNativ
 如果你想修改底层，native代码可修改C++层：
 https://github.com/BabylonJS/BabylonReactNative
 
+所有想法来源于:  com.qihoo.sweeper_map:sweeper_map_release:1.0
